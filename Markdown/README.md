@@ -75,8 +75,12 @@ ______________________________________________
 
 ### Images
 Common format:
+
 ![Some Alt text here](img url)
+
+
 Example: 
-![Cat](https://prnt.sc/uje9q4)
+
+![Cat](cat_icon.png)
 
 ______________________________________________
