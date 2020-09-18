@@ -81,6 +81,6 @@ Common format:
 
 Example: 
 
-![Cat](cat_icon.png | width=100)
+![Cat](cat_icon.png)
 
 ______________________________________________
