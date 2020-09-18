@@ -69,6 +69,7 @@ ______________________________________________
 
 ### Links 
 [GitHub](http://github.com)
+
 http://github.com - this link will be converted automatically
 
 ______________________________________________
