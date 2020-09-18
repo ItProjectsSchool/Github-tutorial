@@ -32,7 +32,7 @@ ______________________________________________
   * Item 2.2
 * Item 3
 
-### Task List
+### Tasks List
 - [x] Task 1
 - [x] Task 2
 - [ ] Task 3
